@@ -28,7 +28,7 @@
     "@octokit/rest": "^18.12.0",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
-    "commander": "^6.2.0",
+    "commander": "^6.2.1",
     "csv": "^5.5.3",
     "json-2-csv": "^3.14.4"
   },
