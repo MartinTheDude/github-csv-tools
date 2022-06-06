@@ -1,0 +1,2 @@
+issue.number,issue.title,issue.state,issue.labels,issue.milestone,issue.user,issue.assignee,issue.assignees,issue.created_at,issue.updated_at,issue.closed_at,issue.body
+1,Test,open,,,MartinTheDude,,,2022-06-01T22:43:16Z,2022-06-01T22:43:16Z,,d
