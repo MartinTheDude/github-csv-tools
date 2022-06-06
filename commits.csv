@@ -1,0 +1,90 @@
+2022-06-06T19:03:31-04:00,fc82bd4,MartinTheDude,martinmez727@gmail.com,Create 2022-06-06-19-03-22-issues.csv
+2022-06-06T19:02:18-04:00,1e6ea30,MartinTheDude,martinmez727@gmail.com,Create 2022-06-06-19-02-09-issues.csv
+2022-06-06T12:59:24-04:00,e9eb228,MartinTheDude,martinmez727@gmail.com,commitfile
+2022-06-06T12:45:52-04:00,766c1d1,MartinTheDude,martinmez727@gmail.com,Update banner.png
+2021-11-29T22:46:15-06:00,475a58f,Rick McCaskill,rick.mccaskill@gmail.com,Added helpers and explicit examples (#64)
+2021-11-12T20:00:29-06:00,8d265ba,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2021-11-12T19:57:54-06:00,fd63ce7,Gavin Rehkemper,gavinr@users.noreply.github.com,Add files via upload
+2021-10-29T16:56:37-05:00,8ed1d74,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #62 from gavinr/dependencies-updates-oct
+2021-10-29T16:50:11-05:00,7cf930f,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #63 from gavinr/eslint-fixes
+2021-10-29T21:48:53+00:00,4822dfc,semantic-release-bot,semantic-release-bot@martynus.net,chore(release): 3.1.3 [skip ci]
+2021-10-29T16:48:16-05:00,02a7121,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #61 from gavinr/package-version
+2021-10-29T01:03:55-05:00,e5e58fa,Gavin Rehkemper,gavin@gavinr.com,chore(linting): fix eslint warnings for var/const
+2021-10-29T01:01:19-05:00,13b02ff,Gavin Rehkemper,gavin@gavinr.com,chore(deps): update dependencies
+2021-10-29T00:57:17-05:00,f89db20,Gavin Rehkemper,gavin@gavinr.com,fix(version): show proper version number in cli
+2021-05-25T23:23:00-05:00,69d54f4,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #52 from JoshuaGarrison27/master
+2021-05-25T15:02:19-04:00,ea6e213,Garrison, Joshua (164),garrisj@americas.corpdir.net,Add sample url for github enterprise
+2021-02-17T04:00:12+00:00,101411b,semantic-release-bot,semantic-release-bot@martynus.net,chore(release): 3.1.2 [skip ci]
+2021-02-16T21:59:40-06:00,b29c664,Gavin Rehkemper,gavin@gavinr.com,fix(package): Security updates for deps
+2021-02-08T03:02:56+00:00,964ec80,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2021-02-08T02:55:10+00:00,06f312e,Gavin Rehkemper,gavinr@users.noreply.github.com,Update CHANGELOG.md
+2021-02-08T02:53:55+00:00,cdc713b,Gavin Rehkemper,gavinr@users.noreply.github.com,chore(ci): use GitHub Actions instead of travis
+2021-02-08T02:36:38+00:00,e1d51cf,semantic-release-bot,semantic-release-bot@martynus.net,chore(release): 3.1.1 [skip ci]
+2021-02-07T20:36:09-06:00,2ba3d7c,Gavin Rehkemper,gavin@gavinr.com,Merge branch 'master' of https://github.com/gavinr/github-csv-tools
+2021-02-07T20:36:04-06:00,0d352df,Gavin Rehkemper,gavin@gavinr.com,fix(semantic-release): re-run release to fix github release
+2021-02-08T02:30:04+00:00,5b75895,semantic-release-bot,semantic-release-bot@martynus.net,chore(release): 3.1.0 [skip ci]
+2021-02-07T20:29:34-06:00,80cb482,Gavin Rehkemper,gavin@gavinr.com,feat(ci): re-running release via semantic-release
+2021-02-08T02:23:00+00:00,e62738c,semantic-release-bot,semantic-release-bot@martynus.net,chore(release): 3.0.0 [skip ci]
+2021-02-07T20:22:33-06:00,e1f5126,Gavin Rehkemper,gavin@gavinr.com,feat(export): Import with "body" instead of "description"
+2021-02-07T19:25:04-06:00,a26b8e9,Gavin Rehkemper,gavin@gavinr.com,semantic release updates
+2021-02-07T18:56:20-06:00,70ca500,Gavin Rehkemper,gavin@gavinr.com,Merge branch 'master' into semantic-release
+2021-02-08T00:42:08+00:00,fb1bf05,Aizhamal Nurmamat kyzy,aizhamal.nk@gmail.com,BREAKING CHANGE: Import with "body" instead of "description" (#39)
+2021-02-07T18:33:09-06:00,439ca0b,Gavin Rehkemper,gavin@gavinr.com,semantic-release
+2020-11-08T23:46:40+00:00,750ea76,Gavin Rehkemper,gavinr@users.noreply.github.com,Update CHANGELOG.md
+2020-11-08T23:45:18+00:00,e679e5d,Gavin Rehkemper,gavinr@users.noreply.github.com,Update CHANGELOG.md
+2020-11-08T17:41:39-06:00,a8764f8,Gavin Rehkemper,gavin@gavinr.com,2.1.0
+2020-11-08T17:41:20-06:00,195689b,Gavin Rehkemper,gavin@gavinr.com,dependencies
+2020-11-08T23:31:41+00:00,9824de4,Takeru Yamada,takeru.yamada@access-company.com,[#22] Import case insensitive matching (#33)
+2020-09-13T09:41:55-05:00,1ba13ee,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #30 from gavinr/dependabot/npm_and_yarn/node-fetch-2.6.1
+2020-09-12T19:30:56+00:00,a224ba1,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Bump node-fetch from 2.6.0 to 2.6.1
+2020-08-23T23:31:51-05:00,9990838,Gavin Rehkemper,gavin@gavinr.com,2.0.0
+2020-08-23T23:28:01-05:00,04c3c36,Gavin Rehkemper,gavin@gavinr.com,v2
+2020-08-23T23:12:55-05:00,c7fb648,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #26 from gavinr/default-fields
+2020-08-23T21:38:48-05:00,b755324,Gavin Rehkemper,gavin@gavinr.com,comments
+2020-08-23T19:33:38-05:00,7ef0cba,Gavin Rehkemper,gavin@gavinr.com,in progress
+2020-08-23T11:45:54-05:00,80e5c82,Gavin Rehkemper,gavin@gavinr.com,refactor exportIssues
+2020-08-23T11:25:08-05:00,6c0cf49,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #25 from gavinr/additional-options
+2020-08-23T11:23:55-05:00,d021222,Gavin Rehkemper,gavin@gavinr.com,allow passing of org/user and repo via commandline options
+2020-07-28T16:30:45-05:00,817c30e,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #21 from gavinr/dependabot/npm_and_yarn/lodash-4.17.19
+2020-07-15T23:14:46+00:00,4e2aea9,dependabot[bot],49699333+dependabot[bot]@users.noreply.github.com,Bump lodash from 4.17.15 to 4.17.19
+2020-07-05T20:05:37+00:00,37fd89f,Gavin Rehkemper,gavinr@users.noreply.github.com,Create FUNDING.yml
+2020-05-03T22:41:53-05:00,00b152d,Gavin Rehkemper,gavin@gavinr.com,ver 1.0.3
+2020-04-29T11:02:18-05:00,2487411,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #16 from ad-si/patch-1
+2020-04-29T15:45:10+00:00,af30d49,Adrian Sieber,36796532+ad-si@users.noreply.github.com,Fix month in CSV filename
+2020-04-28T22:52:31-05:00,50d58dc,Gavin Rehkemper,gavin@gavinr.com,README formatting
+2020-04-28T22:51:18-05:00,b750f77,Gavin Rehkemper,gavin@gavinr.com,changelog notes
+2020-04-28T22:50:20-05:00,5f6597e,Gavin Rehkemper,gavin@gavinr.com,changelog notes
+2020-04-28T22:42:56-05:00,45a91fd,Gavin Rehkemper,gavin@gavinr.com,readme update
+2020-04-28T22:37:38-05:00,9ab2b1e,Gavin Rehkemper,gavin@gavinr.com,update dependencies
+2020-04-28T22:34:00-05:00,2c1091a,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #15 from gavinr/export-attributes
+2020-04-28T22:25:52-05:00,9169079,Gavin Rehkemper,gavin@gavinr.com,exportAttributes option
+2020-04-21T08:41:02-05:00,fffb9b4,Gavin Rehkemper,gavin@gavinr.com,ver 1.0.1
+2020-04-21T07:40:07-05:00,a8a2069,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2020-04-21T07:38:45-05:00,486d945,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2020-04-19T02:16:03+00:00,649afcf,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2020-04-19T02:10:37+00:00,2e33bda,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2020-04-19T02:09:41+00:00,cc8bbea,Gavin Rehkemper,gavinr@users.noreply.github.com,Export Issues (#13)
+2020-04-18T13:22:36-05:00,9da15c6,Gavin Rehkemper,gavin@gavinr.com,Merge branch 'master' of https://github.com/gavinr/github-csv-tools
+2020-04-18T13:22:27-05:00,3112102,Gavin Rehkemper,gavin@gavinr.com,changelog links
+2020-04-18T18:21:01+00:00,eb1b512,Gavin Rehkemper,gavinr@users.noreply.github.com,Update README.md
+2020-04-18T18:19:11+00:00,4f891b0,Gavin Rehkemper,gavinr@users.noreply.github.com,use octokit and other deps updates (#12)
+2017-12-22T13:21:00-06:00,0d5ac4b,Gavin Rehkemper,gavin@gavinr.com,releasing v0.3.0
+2017-12-22T13:15:56-06:00,80c5db8,Gavin Rehkemper,gavin@gavinr.com,adding gitattributes to force lf line endings
+2017-07-19T13:25:29-05:00,f2e9aea,Gavin Rehkemper,gavin@gavinr.com,releasing v0.2.0
+2017-07-19T13:13:11-05:00,6f083df,Gavin Rehkemper,gavin@gavinr.com,added travis badge
+2017-07-19T13:10:44-05:00,8435111,Gavin Rehkemper,gavin@gavinr.com,travis fixes
+2017-07-19T13:07:19-05:00,abab857,Gavin Rehkemper,gavin@gavinr.com,added travis
+2017-07-19T13:04:57-05:00,28bdd2e,Gavin Rehkemper,gavin@gavinr.com,formatting/fixes using eslint
+2017-07-19T12:44:35-05:00,55056d4,Gavin Rehkemper,gavin@gavinr.com,clearer instructions for `--help` switch
+2017-07-19T12:37:01-05:00,6d4532e,Gavin Rehkemper,gavin@gavinr.com,fixed - dropped api subdomain in PR
+2017-07-19T12:27:15-05:00,d6c6196,Gavin Rehkemper,gavin@gavinr.com,converted all quotes to single-quotes
+2017-07-19T14:31:59+02:00,7c0be68,Olivier Jacques,ojacques2@gmail.com,Add test files
+2017-07-19T14:27:07+02:00,70adbb1,Olivier Jacques,ojacques2@gmail.com,Add support of closed issues with 2 steps process
+2017-07-19T14:24:30+02:00,cd5e937,Olivier Jacques,ojacques2@gmail.com,Slower rate for GitHub API requests
+2017-07-19T14:22:56+02:00,cad69e3,Olivier Jacques,ojacques2@gmail.com,Add support of assignee
+2017-07-19T14:07:10+02:00,e34108e,Olivier Jacques,ojacques2@gmail.com,Add GitHub Enterprise support
+2017-03-27T15:44:36-05:00,c325363,Gavin Rehkemper,gavinr@users.noreply.github.com,Merge pull request #2 from kwhite/master
+2017-03-24T15:11:43-05:00,17796fe,Katherine White,katherine@kanopistudios.com,Adding milestone support
+2017-03-24T15:03:50-05:00,ce2562a,Katherine White,katherine@kanopistudios.com,Request throttling & milestones
+2016-07-04T22:36:12-05:00,7ee1dec,Gavin Rehkemper,gavreh@gmail.com,initial
+2016-07-04T20:15:19-05:00,6933d3b,Gavin Rehkemper,gavinr@users.noreply.github.com,Initial commit
